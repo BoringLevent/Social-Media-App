@@ -1,0 +1,1 @@
+To ensure the code works properly, in the file "Constants.java", update line 6 base path to the current directory and replace all the "\\" with "/"
